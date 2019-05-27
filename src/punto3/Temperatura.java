@@ -2,7 +2,7 @@ package punto3;
 
 public class Temperatura 
 {
-	public double celsius = 0.0f;
+	
 	public double farenheit= 32f;
 	public double kelvin = 273.15f;
 	private double valor = 0.0f;
